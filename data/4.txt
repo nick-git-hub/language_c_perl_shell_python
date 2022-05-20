@@ -1,0 +1,5 @@
+CMC>
+nick test
+CMC> 111 qweqweqwe qwe
+nick test
+DDR:33,RFAmp:11,USAmp:44,BCM3218:70,Supply3:66

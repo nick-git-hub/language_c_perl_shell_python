@@ -1,0 +1,20 @@
+port-1: Ge1
+Tx High: 0
+Tx Low: 16838
+Rx High: 20
+Rx Low: 21
+Tx Packet: 31
+Rx Packet: 33
+Rx Pause: 0
+Rx Oversize: 5
+Rx Alignment: 00:1c:7b:11:11:11
+Rx FCS: 12
+Rx Drop: 0
+Member: 0x01000f
+Rx Unicast: 0
+Rx Multicast: 0
+Rx Broadcast: 0
+Rx Packet 64: 0
+Rx Packet 1522: 0
+112233,123,456
+123123123
