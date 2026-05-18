@@ -51,7 +51,12 @@ printf("\n#### 6 ####\n");
 	printf("0x%08x\n",index_4);
 	index_4 = index_4 & ~( 1 << 4); //~(1 << 4)
 	printf("0x%08x\n",index_4);    
-
+/////////////////////////////////////////////////
+printf("\n#### 7 ####");
+	unsigned short index_5=0x86ed;
+	unsigned char tone;
+	tone = index_5 & 0xff;
+	printf("%d\n",tone);
 	return 1;
 }
 
